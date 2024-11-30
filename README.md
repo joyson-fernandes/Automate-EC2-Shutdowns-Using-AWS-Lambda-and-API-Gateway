@@ -1,0 +1,1 @@
+# Automate-EC2-Shutdowns-Using-AWS-Lambda-and-API-Gateway
